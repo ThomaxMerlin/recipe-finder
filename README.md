@@ -14,7 +14,7 @@ You're one-stop for recipes, It is the best app for any type of cooking and cook
 
 
 ## View the app (Hosted on Vercel):
-
+https://recipe-finder-six-phi.vercel.app
 
 ## Tools
 - React
